@@ -7,10 +7,6 @@ In block123's database, each object has a number of other objects associated wit
 
 
 
-If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Reserved.md).
-
-
-
 | **Reserved Flowns name**                         | **Base on** |
 | ---------------------------------------- | ----------- |
 | steemit.flow                             | block123    |
