@@ -1,52 +1,52 @@
 | **Rank** | **Entity**                   | [**block123.com**](http://block123.com) **Score** | **Related Reserved FNS**       |
 | -------- | ---------------------------- | ------------------------------------------------- | ------------------------------ |
-| 1        | WEB3                         | 120                                               | web3.flow                        |
-| 2        | Protocol Labs                | 108                                               | protocollabs.flow                |
-| 3        | Oasis Labs                   | 96                                                | oasislabs.flow                   |
-| 4        | Dapper Labs                  | 86                                                | dapperlabs.flow                  |
-| 5        | Parity                       | 76                                                | parity.flow                      |
-| 6        | Quantstamp                   | 71                                                | quantstamp.flow                  |
-| 7        | ConsenSys Design             | 70                                                | consensysdesign.flow             |
-| 8        | CertiK                       | 69                                                | certik.flow                      |
-| 9        | Lightning Labs               | 68                                                | lightninglabs.flow               |
-| 10       | EARN                         | 66                                                | earn.flow                        |
-| 11       | Blockstream                  | 64                                                | blockstream.flow                 |
-| 12       | Gitcoin                      | 61                                                | gitcoin.flow                     |
-| 13       | Hyperledger                  | 61                                                | hyperledger.flow                 |
-| 14       | KnownSec                     | 60                                                | knownsec.flow                    |
-| 15       | RADAR                        | 55                                                | radar.flow                       |
-| 16       | ArcBlock                     | 53                                                | arcblock.flow                    |
-| 17       | CasperLabs                   | 53                                                | casperlabs.flow                  |
-| 18       | The LAO                      | 53                                                | thelao.flow                      |
-| 19       | Hyperchain                   | 52                                                | hyperchain.flow                  |
-| 20       | Kadena                       | 52                                                | kadena.flow                      |
-| 21       | 100x                         | 51                                                | 100x.flow                        |
-| 22       | Trail of Bits                | 51                                                | trailofbits.flow                 |
-| 23       | bloq                         | 49                                                | bloq.flow                        |
-| 24       | ZK Labs                      | 48                                                | zklabs.flow                      |
-| 25       | r3                           | 47                                                | r3.flow                          |
-| 26       | SKALE                        | 47                                                | skale.flow                       |
-| 27       | Enterprise Ethereum Alliance | 46                                                | enterpriseethereumalliance.flow  |
-| 28       | ChainSecurity                | 45                                                | chainsecurity.flow               |
-| 29       | Chain                        | 44                                                | chain.flow                       |
-| 30       | O(1) Labs                    | 44                                                | o1labs.flow                      |
-| 31       | Rare Bits                    | 44                                                | rarebits.flow                    |
-| 32       | Uppsala Security             | 44                                                | uppsalasecurity.flow             |
-| 33       | Fourth State Labs            | 43                                                | fourthstatelabs.flow             |
-| 34       | Solidified                   | 43                                                | solidified.flow                  |
-| 35       | Clearmatics                  | 42                                                | clearmatics.flow                 |
-| 36       | Algorand Foundation          | 41                                                | algorandfoundation.flow          |
-| 37       | Onchain                      | 41                                                | onchain.flow                     |
-| 38       | Ant Financial OpenChain      | 40                                                | antfinancialopenchain.flow       |
-| 39       | Block.one                    | 40                                                | block.one.flow                   |
-| 40       | Polymath Network             | 40                                                | polymathnetwork.flow             |
-| 41       | Skynet Labs                  | 40                                                | skynetlabs.flow                  |
-| 42       | The Ethereum Foundation      | 40                                                | theethereumfoundation.flow       |
-| 43       | radicle                      | 38                                                | radicle.flow                     |
-| 44       | Distributed Credit Chain     | 37                                                | distributedcreditchain.flow      |
-| 45       | CipherTrace                  | 36                                                | ciphertrace.flow                 |
-| 46       | ConsenSys Diligence          | 36                                                | consensysdiligence.flow          |
-| 47       | SatoshiLabs                  | 35                                                | satoshilabs.flow                 |
-| 48       | Soramitsu                    | 35                                                | soramitsu.flow                   |
-| 49       | Thesis                       | 35                                                | thesis.flow                      |
-| 50       | Whiteblock                   | 35                                                | whiteblock.flow                  |
+| 1        | WEB3                         | 120                                               | web3.fn                        |
+| 2        | Protocol Labs                | 108                                               | protocollabs.fn                |
+| 3        | Oasis Labs                   | 96                                                | oasislabs.fn                   |
+| 4        | Dapper Labs                  | 86                                                | dapperlabs.fn                  |
+| 5        | Parity                       | 76                                                | parity.fn                      |
+| 6        | Quantstamp                   | 71                                                | quantstamp.fn                  |
+| 7        | ConsenSys Design             | 70                                                | consensysdesign.fn             |
+| 8        | CertiK                       | 69                                                | certik.fn                      |
+| 9        | Lightning Labs               | 68                                                | lightninglabs.fn               |
+| 10       | EARN                         | 66                                                | earn.fn                        |
+| 11       | Blockstream                  | 64                                                | blockstream.fn                 |
+| 12       | Gitcoin                      | 61                                                | gitcoin.fn                     |
+| 13       | Hyperledger                  | 61                                                | hyperledger.fn                 |
+| 14       | KnownSec                     | 60                                                | knownsec.fn                    |
+| 15       | RADAR                        | 55                                                | radar.fn                       |
+| 16       | ArcBlock                     | 53                                                | arcblock.fn                    |
+| 17       | CasperLabs                   | 53                                                | casperlabs.fn                  |
+| 18       | The LAO                      | 53                                                | thelao.fn                      |
+| 19       | Hyperchain                   | 52                                                | hyperchain.fn                  |
+| 20       | Kadena                       | 52                                                | kadena.fn                      |
+| 21       | 100x                         | 51                                                | 100x.fn                        |
+| 22       | Trail of Bits                | 51                                                | trailofbits.fn                 |
+| 23       | bloq                         | 49                                                | bloq.fn                        |
+| 24       | ZK Labs                      | 48                                                | zklabs.fn                      |
+| 25       | r3                           | 47                                                | r3.fn                          |
+| 26       | SKALE                        | 47                                                | skale.fn                       |
+| 27       | Enterprise Ethereum Alliance | 46                                                | enterpriseethereumalliance.fn  |
+| 28       | ChainSecurity                | 45                                                | chainsecurity.fn               |
+| 29       | Chain                        | 44                                                | chain.fn                       |
+| 30       | O(1) Labs                    | 44                                                | o1labs.fn                      |
+| 31       | Rare Bits                    | 44                                                | rarebits.fn                    |
+| 32       | Uppsala Security             | 44                                                | uppsalasecurity.fn             |
+| 33       | Fourth State Labs            | 43                                                | fourthstatelabs.fn             |
+| 34       | Solidified                   | 43                                                | solidified.fn                  |
+| 35       | Clearmatics                  | 42                                                | clearmatics.fn                 |
+| 36       | Algorand Foundation          | 41                                                | algorandfoundation.fn          |
+| 37       | Onchain                      | 41                                                | onchain.fn                     |
+| 38       | Ant Financial OpenChain      | 40                                                | antfinancialopenchain.fn       |
+| 39       | Block.one                    | 40                                                | block.one.fn                   |
+| 40       | Polymath Network             | 40                                                | polymathnetwork.fn             |
+| 41       | Skynet Labs                  | 40                                                | skynetlabs.fn                  |
+| 42       | The Ethereum Foundation      | 40                                                | theethereumfoundation.fn       |
+| 43       | radicle                      | 38                                                | radicle.fn                     |
+| 44       | Distributed Credit Chain     | 37                                                | distributedcreditchain.fn      |
+| 45       | CipherTrace                  | 36                                                | ciphertrace.fn                 |
+| 46       | ConsenSys Diligence          | 36                                                | consensysdiligence.fn          |
+| 47       | SatoshiLabs                  | 35                                                | satoshilabs.fn                 |
+| 48       | Soramitsu                    | 35                                                | soramitsu.fn                   |
+| 49       | Thesis                       | 35                                                | thesis.fn                      |
+| 50       | Whiteblock                   | 35                                                | whiteblock.fn                  |
