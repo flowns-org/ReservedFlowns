@@ -1,5 +1,12 @@
 To prevent malicious use of the brand in the real world, we set up a reserved list. Users cannot register a Flowns account that is on the reserved list, it can only be claimed by the corresponding organization or individual. The retention period is temporarily set at one year (from the time the Flowns goes live). Claiming method to be determined.
 
+Many thanks to them for providing us with valuable data：
+
+1. https://similarweb.com 2021-05
+2. https://block123.com 2021-06
+3. [bitclout](https://github.com/bitclout/core/edit/main/lib/reserved_usernames.go)
+4. [DeAccountSystems]{https://github.com/DeAccountSystems/Documents/blob/main/Reserved_DAS/Reserved_DAS_List.md}
+
 
 **About block123.com Score**
 
