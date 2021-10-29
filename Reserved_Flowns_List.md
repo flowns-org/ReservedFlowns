@@ -5,7 +5,7 @@ Many thanks to them for providing us with valuable data：
 1. https://similarweb.com 2021-05
 2. https://block123.com 2021-06
 3. [bitclout](https://github.com/bitclout/core/edit/main/lib/reserved_usernames.go)
-4. [DeAccountSystems]{https://github.com/DeAccountSystems/Documents/blob/main/Reserved_DAS/Reserved_DAS_List.md}
+4. [DeAccountSystems](https://github.com/DeAccountSystems/Documents/blob/main/Reserved_DAS/Reserved_DAS_List.md)
 
 
 **About block123.com Score**
