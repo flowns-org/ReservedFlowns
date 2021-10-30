@@ -13,6 +13,7 @@ Please make sure:
 1. the account you want to reserve is a realistic brand that already exists. 
 2. there should be no obvious dispute as to who should own the account. 
 3. the account is not in the [Reserved_Flowns_List](./Reserved_Flowns_List.md)
+4. the reserve name length is lower than 5
 
 Otherwise, we will not merge your pull requests.
 
@@ -22,4 +23,4 @@ Otherwise, we will not merge your pull requests.
 
 | The Flonws account | Reserved for who   | **Why it should be reserved**                                |
 | --------------- | ----------------   | ------------------------------------------------------------ |
-| reserved.fn    | reserved.network   | The reason why      |
+| rese.fn    | rese.network   |  The reason why      |
