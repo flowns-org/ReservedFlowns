@@ -24,3 +24,11 @@ Otherwise, we will not merge your pull requests.
 | The Flonws account | Reserved for who   | **Why it should be reserved**                                |
 | --------------- | ----------------   | ------------------------------------------------------------ |
 | rese.fn    | rese.network   |  The reason why      |
+
+
+## Second Round of Applications（Deadline 2022-??-??）
+
+
+| The Flonws account | Reserved for who   | **Why it should be reserved**                                |
+| --------------- | ----------------   | ------------------------------------------------------------ |
+| alxo.fn    | alxo   |  To avoid someone claiming my pseudonym      |
